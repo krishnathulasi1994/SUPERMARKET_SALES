@@ -215,7 +215,7 @@ group by city
 order by highest_avg_rating desc
 limit 3
 
---13.Compare the total sales of different payment methods for male vs. female customers.
+---13.Compare the total sales of different payment methods for male vs. female customers.
 
 SELECT PAYMENT,
 		SUM(CASE WHEN GENDER='Male' THEN TOTAL ELSE 0 END)AS MALE_TOTAL_SALES,
