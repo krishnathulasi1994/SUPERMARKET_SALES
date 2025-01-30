@@ -1,0 +1,14 @@
+---1.Rank the products by total sales for each branch.
+---2.Find the top 3 products with the highest sales across all branches.
+---3.Calculate the average rating per city for each product line.
+---4.Find the branch with the highest total sales and the city it belongs to.
+---5.Calculate the percentage of total sales for each product line.
+---6.Find the highest and lowest unit prices for each product line.
+---7.Find the total number of transactions for each customer type.
+---8. List the cities that have a branch with the highest total sales for each product line.
+---9.Find customers who have made purchases in multiple branches.
+---10.Identify the products that contributed to at least 10% of total sales for each branch.
+---11.Identify the most profitable day for each branch.
+---12.Find the top 3 cities with the highest average rating for female customers.
+---13.Compare the total sales of different payment methods for male vs. female customers.
+---14. Find the branch-product combinations that generated average revenue above the branch's average.
