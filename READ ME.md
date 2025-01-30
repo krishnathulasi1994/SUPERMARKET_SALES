@@ -1,2 +1,2 @@
 # SUPERMARKET SALES ANALYSIS WITH SQL
-![](
+![](https://github.com/krishnathulasi1994/SUPERMARKET_SALES/blob/main/SUPERMARKET%20LOGO)
